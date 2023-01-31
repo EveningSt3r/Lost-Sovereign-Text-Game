@@ -1,0 +1,81 @@
+0/Thanks for playing.
+1/You drop into an ethereal forest. Birds chirp around you.
+2/An old man is meditating in the opening. He mutters something.
+3/The old man fades to dust, and a sword is left behind. CP increased by 15.
+4/The path diverges.
+5/An opening in the path. A goblin jumps out in front of you. CP required: 15.
+6/The only way is up. Sunlight is finally breaking through the trees.
+7/You are out of the forest. A massive plain unfolds before you. You see a DESERT to the east, MOUNTAINS to the west, and a dark presence NORTH.
+8/A mindless plain. Trees and abandoned buildings surround you. The dark presence is growing stronger.
+9/The plain continues, as bits of sand start to intertwine with the grass.
+10/You advance towards the rocky mountain range. You pass several abandoned buildings and carts. You pass a path and a bridge that flows over a river.
+11/As you advance, the buildings become more prevalent and the trees around you are dying. The dark presence is beginning to become more bothersome.
+12/You encounter a stream. The desert is getting close in the distance.
+13/Poles with blood on them surround you. The desert is to the EAST. You should turn back.
+14/You see a sharp incline ahead. Mist surrounds the mountaintop. Proceed with caution.
+15/You can see a dark presence to the NORTH. You can't get to it now. Proceed WEST to the mountains.
+16/The domain of the black monarch. You feel your life force draining. CP levels below 100 will not survive.
+17/A village, long abandoned. The stench is foul. The roads are blocked, and it reeks of death.
+18/You enter the extremely arid desert. The sun is unbearable, and you begin to dehydrate. CP levels below 55 will not survive.
+19/[LOCATION: Luster, the Green Summit] Greenery surrounds you as you begin to climb an ancient road. Signs surround you, worn with time.
+20/You climb to the top of a hill and take in a view. Floating rocks with runes on them hover above a deep forest to the NORTH, and you can see smoke to the SOUTH.
+21/You jump onto one of the rocks, and the runes begin to glow. The clouds part to reveal a humongous mountain above the others, with mist at the top.
+22/The forest all but hides a tiny vision of the sky. You head towards the source of the smoke.
+23/As you parkour across the rocks, you notice you are getting closer to the smoke. The rocks begin to fade away, and you see a cliff that heads towards the SOUTH.
+24/You sit down and the forest becomes quiet. The knight clears his throat. "What is this place?" You ask. "Come, sit. " The knight asserts calmly. "Introductions."
+25/"I'm Idaten, of the Blazing Blade. Idaten for short." He points at the Hawk. "That's Gale, of the Luster Summit. Gale for short." He points to the sky.
+26/You're not sure what they mean, but they rise and begin walking. You follow suit. As you exit the forest, you find that the sun is setting.
+27/The three stop in their tracks and stare at you. 'You don’t know?' 'No.' [PERCIVAL:] "The Sovereigns are the principal governing forces of this world."
+28/[IDATEN:] "Doesn’t matter. The fact that you’re this clueless leads me to believe there’s more going on. The Green governs our tribe. We’ll get you situated there."
+29/You continue walking with the party as the sun sets. Gale doesn't seem to be interested in small talk, but you find out a bit more about the other two.
+30/You run out of the clearing. It's fully night now. You hear ferocious noises of beasts behind you. As you look back, the three draw their weapons.
+31/You're alone again. As you walk south, the forest gets darker. Noises of distant birds return and the fight behind you fades.
+32/You're alone again. As you walk east, you see fire in the distance. The battle behind you seems close, but you press on.
+33/You're alone again. As you walk west, the forest disappears. You are once again greeted by the ominous path of floating rocks. The runes glow bright.
+34/All light disappears. You stumble around. The noises of the birds and crickets reach a frightening crescendo.
+35/You enter an abandoned camp. The clearing behind you closes with overgrowth and a monster drops in. CP required: 20
+36/You walk along a path in a plain. You find a very old piece of leather armor. You see a campfire in the distance along the plain path. CP increased by 15.
+37/You stumble blindly through the darkness. It might be your imagination, but it sounds like the battle is getting closer.
+38/You see a light through the blinding darkness. You're deprived of all sense of direction, but you stumble forward.
+39/You see a note left behind. "Gale warned of your arrival. Head up the summit ahead." You gaze forward, and through the night sky a giant mountain looms.
+40/You're at the base of the mountain. Combat Power recommended: 30
+41/You walk up an ancient trail and see an entrance to a cave.
+42/The cave entrance caves in behind you. There is no going back. A hot wind blows throughout the musty air.
+43/congrats! you broke the game.
+44/The hot wind blows harshly as your traverse the cavern. Red crystals surround you, glowing faintly. You can make out figures inside them.
+45/The harsh breeze intensifies as you the cave gets darker.
+46/The entrance you walked into caves once more. You climb up a steep incline as you traverse forward. The wind is irritating, and it's getting stronger.
+47/You encounter a large cluster of red crystals. The ground trembles, and a lion-like creature emerges from the breaking crystal. CP required: 20
+48/The cave gets darker yet. The only bits of light come from a group of reddish glowing crystals stuck to the walls.
+49/The paths diverge. You find a worn steel helmet on the ground. CP increased by 15.
+50/You are greeted with two divulging paths.
+51/As you head East, the passage closes in behind you. You feel a deep fear, as if the cave is breathing. You find a shiny sword on the ground. CP increase 20
+52/As you head West, the passage closes in behind you. The cavern undulates, as if the cavern itself is alive.
+53/You continue to the right, as a red substance drips down from the stalactites.
+54/You reach an impasse and jump up to a ledge.
+55/You reach an impasse and climb down into the deeper part of the cavern.
+56/You head north, and the ground shakes, before giving in.
+57/The passage tightens, and a shining light can be seen in the darkness.
+58/The passage tightens, and a shining light can be seen in the darkness.
+59/You see a shining red broadsword on the ground, along with a ruby-adorned helmet. As you don them, you feel fiery energy course through your body. CP increased by 50.
+60/The cave walls seem to be closing in, and a powerful presence is getting closer.
+61/You head North as the incline of the cave path decreases.
+62/You head further East as the cave closes in even more.
+63/You climb up a ledge and discover another opening.
+64/The ground caves in beneath you, and you are plunged into sudden darkness.
+65/The ground caves in beneath you, and you are plunged into sudden darkness.
+66/You climb up a ledge and discover another opening.
+67/You head in further. The depth is crushing you, and the crystals are beginning to blur.
+68/Water drips quietly for the first time. The hot wind is dehydrating you at a rapid rate.
+69/You see a clearing ahead.
+70/You see a clearing ahead.
+71/You climb up from the West Path, and are greeted with a large room of jewels. Your current gear doesn't make a dent though.
+72/You head South once entering the West Path. The wind is getting hotter.
+73/You head North from the West Path. The wind is getting hotter.
+74/You see an open room ahead.
+75/You run towards an open room ahead.
+76/Through the mist you see an open room ahead.
+77/You're clever. I don't know how you got here, but enjoy being here for eternity. Or until the game closes.
+78/The Dragon roars, and the crystals break to reveal dragon guardians. You clutch your sword and a fiery aura envelops you. You charge at the dragon with all your might.
+79/Clutching it fills you with power. You now have the power to cast fire magic. CP increased by 100.
+80/You walk past the decaying body of the Augur, and the cave exit. You are greeted by a starry night once more, and the summit of Luster Peak.
