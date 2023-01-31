@@ -1,7 +1,7 @@
 # Lost-Sovereign-Text-Game
 
-AS OF ANY TIME PERIOD BEFORE THIS BLURB IS REMOVED - THIS REPOSITORY IS ARCHIVAL AND FOR VIEWING OF CODE ONLY - JPACKAGE SOLUTIONS RELEASED ON GAME COMPLETION 
-1/31 WIP - VERY SOON 
+**AS OF ANY TIME PERIOD BEFORE THIS BLURB IS REMOVED - THIS REPOSITORY IS ARCHIVAL AND FOR VIEWING OF CODE ONLY - JPACKAGE SOLUTIONS RELEASED ON GAME COMPLETION 
+1/31 WIP - VERY SOON**
 
 
 *** IN BETA/ EARLY STAGE OF DEVELOPMENT, EXPECT SHAKY FEATURES AND QOL***
@@ -14,7 +14,7 @@ Table of Contents:
 - For the Future
 - Boring legal stuff
 ------------------------------------------------------------------------------------------------------------------------------------------
-ABOUT THE PROJECT
+**ABOUT THE PROJECT**
 
 The Quadsar ("EveningSt3r" on github) Adventure Game was initially an experiment with HashMap and
 later, the GUI aspects of Java (Swing). I have used concepts and ideas from both the classic
@@ -42,7 +42,7 @@ This game may be updated in the future, or it will remain in the beta-like state
 Built with Java using Swing
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-RUNNING THE PROGRAM
+**RUNNING THE PROGRAM**
 
 You have likely recieved this project in a zip or folder. The multitude of .dll files in the folder are required
 for the project to run. Please do not move any files outside of their folders. Likely a way to make this folder
@@ -57,9 +57,9 @@ As long as all the correct files needed to run (text files, images, and .dll), a
 provided by Jpackage are present, no errors should occur.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-USAGE/CONTROLS
+**USAGE/CONTROLS**
 
-The game tries to be as self sufficient as possible. There is a small bit of directions below the input box, but
+The game tries to be as self sufficient as possible. A directions page is included, but
 the text box takes inputs of letters (N for north, S for south) of the cardinal directions, and U for up and D for
 down. The available directions the player can take are displayed below the input box. There are graphics to the
 right of the text box with a visual of the player's location (@Bagged_Sprout on Twitter). More graphics may be
@@ -78,7 +78,7 @@ parts are cut, the full directions are here. ***
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-FOR THE FUTURE
+**FOR THE FUTURE**
 
 (Plans that may never happen)
 - Finish story and remaining areas
@@ -89,7 +89,7 @@ FOR THE FUTURE
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-BORING LEGAL STUFF
+**BORING LEGAL STUFF**
 
 The Oracle Java 14 JDK (Java development Kit) was obtained under the Oracle Network Java SE License permitting
 personal use at no-cost.
