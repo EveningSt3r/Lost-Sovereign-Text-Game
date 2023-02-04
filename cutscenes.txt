@@ -1,0 +1,12 @@
+24/You see a knight, a humanoid hawk and a lion clutching a sword sitting around a campfire. The Hawk's feathers are a deep black with armor on the wings.
+25/"Percival, of the Iron Hilt." He points to the lion. "The other two?" You ask. The knight and the hawk exchange glances. The lion picks his nails.
+26/[GALE:] "This is Luster, the Green Summit. This forest was once much larger, but the imbalance caused by the split of the Red and Black Sovereigns."
+27/[GALE:] "The Green Sovereign controls Luster Summit, the blue controls the raging seas, the Red the Sand Sea, and the Black- " You cut him off. "Sovereigns?"
+30/You reach a clearing. Suddenly, the three go dead silent. [IDATEN:] "Run." "Why?" you ask. [IDATEN:] "Just go! Run, you'll see our camp up ahead!"
+39/You reach an abandoned campsite, with blood staining the rocks of a dead fire. The scene is recent, and you can see dark figures running away through the night.
+41/[LOCATION: Luster Summit Base Trail]
+42/[LOCATION: Ruby, Cavern of the Red Augur]
+59/The ground beneath you gives in, and you find yourself in a room covered in red crystals. A powerful aura from behind a gate.
+60/[BOSS ENCOUNTER: Red Augur, The Dragon Reawakened]: CP required: 100. Red fire fills the room as fire creeps behind your legs.
+78/[BOSS ENCOUNTER:] RED AUGUR, SEARING GUARDIAN DRAGON: [CP REQUIRED: 100]
+79/The last traces of the Augur disappear, and you are left behind with an orb.
