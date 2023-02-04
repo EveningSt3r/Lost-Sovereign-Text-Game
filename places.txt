@@ -5,18 +5,18 @@
 4/The path diverges.
 5/An opening in the path. A goblin jumps out in front of you. CP required: 15.
 6/The only way is up. Sunlight is finally breaking through the trees.
-7/You are out of the forest. A massive plain unfolds before you. You see a DESERT to the east, MOUNTAINS to the west, and a dark presence NORTH.
-8/A mindless plain. Trees and abandoned buildings surround you. The dark presence is growing stronger.
-9/The plain continues, as bits of sand start to intertwine with the grass.
+7/You are out of the forest. A massive plain unfolds before you. You see a massive Mountain Range up ahead. It calls you.
+8/You approach the mountains, and you pass the ruins of a house.
+9/The path continues, as bits of stone start to intertwine with the grass.
 10/You advance towards the rocky mountain range. You pass several abandoned buildings and carts. You pass a path and a bridge that flows over a river.
-11/As you advance, the buildings become more prevalent and the trees around you are dying. The dark presence is beginning to become more bothersome.
-12/You encounter a stream. The desert is getting close in the distance.
-13/Poles with blood on them surround you. The desert is to the EAST. You should turn back.
+11/You climb a steep hill and discover something in the dirt. CP increased by 10.
+12/You encounter a stream.
+13/The trees are beginning to grow taller as you rprogress.
 14/You see a sharp incline ahead. Mist surrounds the mountaintop. Proceed with caution.
-15/You can see a dark presence to the NORTH. You can't get to it now. Proceed WEST to the mountains.
-16/The domain of the black monarch. You feel your life force draining. CP levels below 100 will not survive.
-17/A village, long abandoned. The stench is foul. The roads are blocked, and it reeks of death.
-18/You enter the extremely arid desert. The sun is unbearable, and you begin to dehydrate. CP levels below 55 will not survive.
+15/A cross in the ground. A name is scribbled on it, but you can't make it out.
+16/You climb down the hill.
+17/You can see the mountain up ahead.
+18/You can see a path NORTH.
 19/[LOCATION: Luster, the Green Summit] Greenery surrounds you as you begin to climb an ancient road. Signs surround you, worn with time.
 20/You climb to the top of a hill and take in a view. Floating rocks with runes on them hover above a deep forest to the NORTH, and you can see smoke to the SOUTH.
 21/You jump onto one of the rocks, and the runes begin to glow. The clouds part to reveal a humongous mountain above the others, with mist at the top.
