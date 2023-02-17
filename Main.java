@@ -8,6 +8,10 @@ import java.io.*;
 import java.util.*;
 import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.border.Border;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 
 import static Chimera.tech.Global.place;
 
@@ -64,34 +68,43 @@ public class Main {
 
         JFrame intro = new JFrame("Tutorial Window");
         intro.setExtendedState(frame.getExtendedState() | JFrame.MAXIMIZED_BOTH);
-        intro.setLayout(null);
+        intro.setLayout(new FlowLayout());
         intro.setSize(screenSize.width, screenSize.height);
         intro.setExtendedState(intro.getExtendedState() | JFrame.MAXIMIZED_BOTH);
         intro.getContentPane().setBackground(Color.BLACK);
         intro.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        intro.setResizable(true);
 
-        JLabel intro1 = new JLabel("Welcome to Lost Sovereign, a text adventure game by Quadsar/EveningSt3r on Github!");
+        JLabel intro1 = new JLabel("\n \nWelcome to Lost Sovereign, a text adventure game by Quadsar/EveningSt3r on Github!", SwingConstants.CENTER);
         intro1.setFont(new Font("Serif", Font.BOLD, 32));
         intro1.setForeground(Color.WHITE);
         intro1.setBackground(Color.DARK_GRAY);
-        intro1.setBounds(335, 200, 10000, 100);
+        intro1.setHorizontalAlignment(JLabel.CENTER);
+        intro1.setVerticalAlignment(JLabel.CENTER);
+        // intro1.setBounds(335, 200, 10000, 100);
         intro.add(intro1);
 
-        JLabel intro2 = new JLabel("Directions (Close or minimize this window to start the game): ");
-        intro2.setFont(new Font("Serif", Font.BOLD, 22));
-        intro2.setBounds(335, 300, 10000, 100);
+        JLabel intro2 = new JLabel("\n Directions (Close or minimize this window to start the game): ", SwingConstants.CENTER);
+        intro2.setFont(new Font("Serif", Font.BOLD, 32));
+        // intro2.setBounds(335, 300, 10000, 100);
         intro2.setBackground(Color.DARK_GRAY);
+        intro2.setHorizontalAlignment(JLabel.CENTER);
+        intro2.setVerticalAlignment(JLabel.CENTER);
         intro2.setForeground(Color.WHITE);
         intro.add(intro2);
 
-        JTextArea intro3 = new JTextArea();
-        intro3.setText("Click on the provided text field and enter in a valid direction with your keyboard. Directions represent movement of your character. \nN for north, S for south, etc. Press 'enter' with your keyboard once a valid direction is inputted. \nYour " +
+        JTextPane intro3 = new JTextPane();
+        intro3.setText("\n \n \n \n \n \n \n \nClick on the provided text field and enter in a valid direction with your keyboard. Directions represent movement of your character. \nN for north, S for south, etc. Press 'enter' with your keyboard once a valid direction is inputted. \nYour " +
                 "CP (Combat Power) changes depending on what items you get during your adventure. \nAt certain checkpoints you will receieve an encounter. If your CP does not meet " +
                 "a threshold you will be forced to restart. \nIf this occurs, click the text field and enter 'N' to continue. This prompt will reappear as a reminder upon death. Entering\n" +
                 "N will warp you back to a checkpoint. Only certain paths allow progression, so make sure to explore.");
         intro3.setEditable(false);
+        StyledDocument doc = intro3.getStyledDocument();
+        SimpleAttributeSet center = new SimpleAttributeSet();
+        StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
+        doc.setParagraphAttributes(0, doc.getLength(), center, false);
         intro3.setFont(new Font("Serif", Font.BOLD, 25));
-        intro3.setBounds(285, 450, 2500, 500);
+        // intro3.setBounds(285, 450, 2500, 500);
         intro3.setBackground(Color.BLACK);
         intro3.setForeground(Color.WHITE);
         intro.add(intro3);
