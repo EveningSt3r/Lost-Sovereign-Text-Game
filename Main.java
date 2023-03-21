@@ -94,16 +94,16 @@ public class Main {
         intro.add(intro2);
 
         JTextPane intro3 = new JTextPane();
-        intro3.setText("\n \n \n \n \n \n \n \nClick on the provided text field and enter in a valid direction with your keyboard. Directions represent movement of your character. \nN for north, S for south, etc. Press 'enter' with your keyboard once a valid direction is inputted. \nYour " +
-                "CP (Combat Power) changes depending on what items you get during your adventure. \nAt certain checkpoints you will receieve an encounter. If your CP does not meet " +
-                "a threshold you will be forced to restart. \nIf this occurs, click the text field and enter 'N' to continue. This prompt will reappear as a reminder upon death. Entering\n" +
+        intro3.setText("\n \n \n \n \n \n \n Click on the provided text field and enter in a valid direction with your keyboard. \nDirections represent movement of your character. \nN for north, S for south, etc. Press 'enter' with your keyboard once a valid direction is inputted. \nYour " +
+                "CP (Combat Power) changes depending on what items you get during your adventure. \nAt certain checkpoints you will receieve an encounter. \nIf your CP does not meet " +
+                "a threshold you will be forced to restart. If this occurs, click the text field and enter 'N' to continue. \nThis prompt will reappear as a reminder upon death. Entering\n" +
                 "N will warp you back to a checkpoint. Only certain paths allow progression, so make sure to explore.");
         intro3.setEditable(false);
         StyledDocument doc = intro3.getStyledDocument();
         SimpleAttributeSet center = new SimpleAttributeSet();
         StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
         doc.setParagraphAttributes(0, doc.getLength(), center, false);
-        intro3.setFont(new Font("Serif", Font.BOLD, 25));
+        intro3.setFont(new Font("Serif", Font.BOLD, 22));
         // intro3.setBounds(285, 450, 2500, 500);
         intro3.setBackground(Color.BLACK);
         intro3.setForeground(Color.WHITE);
