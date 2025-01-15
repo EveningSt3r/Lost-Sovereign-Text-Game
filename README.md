@@ -46,12 +46,15 @@ Built with Java using Swing
 
 You have likely recieved this project in a zip or folder. The multitude of .dll files in the folder are required
 for the project to run. Please do not move any files outside of their folders. Likely a way to make this folder
-more organized will be workedon in the future. 
+more organized will be worked on in the future. 
+
+**Downloading from the release section on GitHub should let you unzip the file into another folder, from there the .exe file is runnable.**
+The .exe file has been cleared as safe by Windows Security via external submission as of 2023
 
 You can click on the ".exe" file, provided all the correct text files (places, directions, cutscenes)
 
 The "cutscenes" text file was a product of me not knowing how to correctly format text in GUI and may be improved
-later.
+later. **Ignore all extraneous text files and anything that's not the .exe really**
 
 As long as all the correct files needed to run (text files, images, and .dll), along with the java installation
 provided by Jpackage are present, no errors should occur.
