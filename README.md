@@ -1,11 +1,11 @@
 # Lost-Sovereign-Text-Game
 
-**AS OF ANY TIME PERIOD BEFORE THIS BLURB IS REMOVED - THIS REPOSITORY IS ARCHIVAL AND FOR VIEWING OF CODE ONLY - JPACKAGE SOLUTIONS RELEASED ON GAME COMPLETION 
+**ARCHIVAL REPOSITORY** 
 1/31 WIP - VERY SOON**
 
 
-*** IN BETA/ EARLY STAGE OF DEVELOPMENT, EXPECT SHAKY FEATURES AND QOL***
-- Very unclear whether or not I will continue this, it's comprehensive as is but lacking
+*** BETA / EARLY DEVELOPMENT ***
+- On Hold
 
 Table of Contents:
 - About the Project
